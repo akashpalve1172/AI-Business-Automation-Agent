@@ -1,0 +1,43 @@
+TECHNOVA SOLUTIONS
+IT SECURITY POLICY
+
+Policy Version: 1.0
+Effective Date: January 1, 2026
+
+1. Password Security
+
+Employees must use strong passwords for company systems.
+
+Passwords must not be shared with other employees.
+
+2. Account Security
+
+Employees must not share their company account credentials.
+
+Employees should lock their computer when leaving their
+workstation unattended.
+
+3. Security Incidents
+
+Employees must immediately report suspected security
+incidents to the IT Security team.
+
+4. Lost Equipment
+
+Lost or stolen company devices must be reported to the
+IT Support team as soon as possible.
+
+5. Software Installation
+
+Employees must not install unauthorized software on
+company-owned devices.
+
+6. Remote Access
+
+Employees accessing company systems remotely must use
+company-approved secure access methods.
+
+7. Support
+
+For technical support, employees should contact the
+IT Support team.

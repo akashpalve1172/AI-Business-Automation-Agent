@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "category": "rag",
+        "question": "How many days can employees work from home?",
+        "expected": "2 days per week"
+    },
+    {
+        "id": 2,
+        "category": "rag",
+        "question": "How many annual paid leave days are provided?",
+        "expected": "24 days"
+    },
+    {
+        "id": 3,
+        "category": "rag",
+        "question": "What is the hotel reimbursement limit?",
+        "expected": "INR 4,000 per night"
+    },
+    {
+        "id": 4,
+        "category": "sql",
+        "question": "Show me employees from the IT department",
+        "expected": "Rohan and Pooja"
+    },
+    {
+        "id": 5,
+        "category": "sql",
+        "question": "Show me Data employees earning more than 65000",
+        "expected": "Amit and Karan"
+    },
+    {
+        "id": 6,
+        "category": "calculator",
+        "question": "What is 4000 multiplied by 3?",
+        "expected": "12000"
+    },
+    {
+        "id": 7,
+        "category": "workflow",
+        "question": "My travel reimbursement was rejected because I forgot the hotel receipt.",
+        "expected": "Travel Reimbursement workflow"
+    },
+    {
+        "id": 8,
+        "category": "workflow",
+        "question": "My company laptop was lost.",
+        "expected": "Lost Company Equipment workflow"
+    }
+]
