@@ -148,7 +148,9 @@ AI-Business-Automation-Agent/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
 ⚙️ Installation
+
 1. Clone the repository
 git clone https://github.com/akashpalve1172/AI-Business-Automation-Agent.git
 2. Open the project
@@ -188,18 +190,22 @@ Start Streamlit:
 
 streamlit run app.py
 
-Then open:
+Then open: http://localhost:8501
 
-http://localhost:8501
 💬 Example Queries
+
 Policy
 How many days can employees work from home?
+
 Employee Database
 Show me employees from the IT department
+
 Calculator
 What is 4000 multiplied by 3?
+
 Workflow
 My company laptop was lost.
+
 🧪 Testing
 
 The project contains functional and UAT-related test files.
@@ -280,13 +286,10 @@ Human approval workflows
 Monitoring and AI evaluation
 Cloud deployment
 Conversation memory
-👨‍💻 Author
 
-Akash Palve
+👨‍💻 Author: Akash Palve
 
-GitHub:
-
-https://github.com/akashpalve1172
+GitHub: https://github.com/akashpalve1172
 
 ⭐ Project Highlights
 
